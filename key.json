@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blistex-boom",
+  "private_key_id": "ee11288c970528f402d7400098674c29fccb6581",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDgEKhvnofNCkaT\nuzdBAHx9h/YXgT4m0YxFOUmvGcrDwlCaoOp59hs2IaQiJK5O3TcK0ucexZKdcXeJ\nB59QfsweOoLvdUPeYGN04eB0dQbs7y9LcS3xf8GKe/xFMokMJ4gCu+F6yFCTOTIu\ngbJ3OMaQhkJHhq/s4xnSkinZOzoSIdcst22cjj2UArL0pbwjqehd+nqnSkiMju6/\nZc68OZyKYkb53wwUXBT0STd0byl5dv4Qqi78caGoqsUz9iMG9zm+57VjAZmR9lCr\nBcvb/FoBgG3bHPWcSkb7V6nVY0etiA9emC6K4sSYEAyiuse6rUNCiGCK2vKasSh/\n+V0f2STFAgMBAAECggEABynr2LW+2HANqvIqEBVN5aLlMVcxKi3k8t75W3R9pnNI\nqcj0oOBHenGU59U4ZXkZJhVxd5W63Ex2apZ9zNBhAk5omp4AhNRGxG6RreeCnddV\nMcT1Qmq362Tkvz71tsJvd3bo/J35mttnSVQIOrDsAvmSlkAuJmq/C/EfDrz1XFhS\npWmFl748b1SjRTzgHXkhHvF88qwfOM6yAWLB5Tf0ZbWGDVHgiEmVqqkq5mIQIAmv\nwKIbI7ygQ53aAHv4jilFlr6NlYRDpSnNvIdx7GuODcydcMmmndTXpI3fI7O9JN+u\nOuzl2wADF5FK5FLPCb8VhZHZbsYFcH2iWEe4t2TIeQKBgQD3qaXO5RPi2gLXz/5r\nhQYCOpNA6dpZcd8VOcTkRSnV44vqVJAURHuXgiXYcTrMKXLIXabnI8wF1Yw2k2Wu\nT4n+NzKizAJtK3meGIyb0zbDvLZsIql5o8QN0/5MiFowILWVTJueRzC/0ds5cmKC\nw503DT7vN8Dd6dtV1kuUrKBhNwKBgQDnm6V+TsDJolQ/Qu96XINT1/yeo1LedMga\nrDl6zIWZ0Dlaln46QXyOMdpdB/lU/gS5XcBGPIjGZNIfFHje/mQ41xrDvKVFzS64\nejg3TMP7Q+SSNLF1rk6oFQAhuyGWNncJGvij0zpbKdrttRCW1jkbXA2JCDvbXkac\nlwS7cdEX4wKBgQDK7Vup2fPgZef8czWxXc7dlqc/gh3iOjajCrG0pKMx2X+0YtOn\nd7GZJA/keGrIDJI7cNkn/SHYCfEYas/e8tdL0GiSEf1O/FdrXgwgRgFSgtcqZYBd\n5fzno7NzfCoB01tV2O6N0yEzmz04pevn32Z7TEQr+I/0hQCuJafKS2QiIwKBgQCC\nri24kNLycic68peQ4PYwrqOZFupBHn9xnU9pXFDdssFJvbRHRn/y82oUJ9WlARbF\nSIKenrVFy8lLRA/XMo52C9jMLHrMYbNE36EsgqHp+irT2+ttTQaQjBjg72dKDD0p\n5A/6z8oTehBPI2TS1tit+Uih0wWDBzSsUgGXiebCpQKBgQDsQ0dSmqMBwp3sO2XU\ne3/Cka6UvQgmHwUlzLqwefWMFEmPkhgmDJWVKPzHjUAO1NYxsNwoKksyU2qmWYgW\nPKBV7BMRh1bd3vnOlVPpSLc+p8v+G3lIFq8iwPg154MZE+cClYw47sLFsHkZS8/p\nxgc8prtWMQItHAnwR1M9IHZrmA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "taylor63@blistex-boom.iam.gserviceaccount.com",
+  "client_id": "114424730604342320615",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taylor63%40blistex-boom.iam.gserviceaccount.com"
+}
